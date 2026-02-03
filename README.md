@@ -4,7 +4,7 @@ A simple Java project to learn basic programming concepts.
 
 ## Description
 this program asks the user to enter a password.
-If the password is correct,it prinys "welcome"
+If the password is correct,it prints "welcome"
 If the password is wrong 3 times, he program blocks access.
 
 ## How to Run
